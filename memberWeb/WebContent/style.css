@@ -1,0 +1,14 @@
+a:link,a:visited,a:active {
+      text-decoration : none;
+   }
+   a:hover {
+      text-decoration : underline;
+      color : red;
+      cursor: pointer;//Ä¿¼­°¡ ¼Õ°¡¶ôÀ¸·Î º¯ÇÑ´Ù.
+   }
+   TABLE, TD,TR, TH{
+           font: 20px ¸¼Àº°íµñ,±¼¸²,µ¸¿ò;
+   }
+   p{
+      font-size:9pt;
+   }
